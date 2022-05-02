@@ -1,1 +1,27 @@
+#title  {
+    color:#46244C;
 
+}
+
+
+.header>a {
+    color:#C74B50;
+}
+
+#title2 {
+    color:#D49B54;
+
+}
+
+body {
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+    color:cornflowerblue;
+}
+
+.list {
+    color:black;
+}
