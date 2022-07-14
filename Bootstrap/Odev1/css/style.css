@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+.head {
+    margin: 3rem;
+}
+.list>li {
+    padding: 2px;
+    list-style-type: circle;
+    list-style-position: inside;
+}
